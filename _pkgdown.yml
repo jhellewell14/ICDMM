@@ -1,0 +1,29 @@
+url: https://mrc-ide.github.io/hanojoel/
+
+template:
+  params:
+    bootswatch: flatly
+
+navbar:
+  type: default
+  left:
+    - href: index.html
+      icon: fa-home
+    - text: Reference
+      href: reference/index.html
+    - text: Articles
+      menu:
+      - text: Simplest Model Run
+        href: articles/run_model.html
+      - text: More Flexible Model Run
+        href: articles/create_r_model.html
+      - text: Adding ITNs and IRS
+        href: articles/intro_to_nets.html
+      - text: --------
+      - text: Contributing
+        href: CONTRIBUTING.html
+    - text: News
+      href: news/index.html
+  right:
+    - href: https://github.com/mrc-ide/hanojoel
+      icon: fa-github
