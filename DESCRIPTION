@@ -39,7 +39,6 @@ Depends:
 Encoding: UTF-8
 LazyData: TRUE
 RoxygenNote: 6.1.1
-Additional_repositories: https://mrc-ide.github.io/drat
 Suggests: 
     knitr,
     rmarkdown,
