@@ -1,1 +1,1 @@
-
+This package provides code to reproduce analysis on the impact of low-technology emanators for malaria control. It is a heavily reduced version of a package that will eventually be released that allows users to run the Imperial College malaria model within R. As such, it is not intended to be used for any analysis other than to be installed and run to reproduce the figures using the accompanying R package https://github.com/jhellewell14/emanator.model
