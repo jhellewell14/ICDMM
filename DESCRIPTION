@@ -30,10 +30,9 @@ Imports:
     stringi,
     rlang,
     odin, 
-    RecordLinkage
-Remotes:
-    richfitz/odin,
-    richfitz/dde
+    RecordLinkage,
+    dde
+
 Depends:
     R (>= 2.10)
 Encoding: UTF-8
